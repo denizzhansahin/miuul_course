@@ -1,0 +1,12 @@
+Paket/modül/kütüphane yönetimi
+
+pip - requirements.txt
+pipenv - pipfile
+conda - environment.yaml(hem sanal ortam hem paket yöneticisidir)
+
+Paket yönetimi ve bağımlılık yönetimini sağlar.
+
+Sanal Ortam ve Paket Yönetim Araçları İlişkisi
+conda hem package ve virtual environment yapabilir
+pip package yönetimi yapabilir
+

@@ -1,0 +1,5 @@
+Virtual Environment- Sanal Ortam
+İzole edilmiş çalışma ortamları oluşturmak için kullanılan araçtır.
+Farklı çalışmalar için oluşabilecek kütüphane ve versiyon ihtyaçlarını birbirini etkilemeyecek şekilde oluşturma imkanı vermektedir.
+
+venv - virtualenv - pipenv - conda
